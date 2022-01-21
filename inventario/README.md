@@ -2,4 +2,4 @@
 Claves para entrar
 
 Usuario: admin
-Conteaseña: admin
+Contraseña: admin
