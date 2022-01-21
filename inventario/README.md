@@ -1,5 +1,5 @@
 "# simple-stock" 
 Claves para entrar
 
-Usuario: Admin
-Conteaseña Admin
+Usuario: admin
+Conteaseña: admin
